@@ -1,17 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/utils/theme/theme.dart';
-
-void main() {
+import 'utils/theme/theme.dart';
 
 
-  //Todo : Add Widgets Binding
-  //Todo : Init Local Storage
-  //Todo : Await Native Splash
-  //Todo : Initialize FireBase
-  //Todo : Initialize Authentication
-  
-  runApp(const App());
-}
 
 class App extends StatelessWidget {
   const App({super.key});

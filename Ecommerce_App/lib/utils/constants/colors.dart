@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 class TColors {
   // Keep the constructor private
   TColors._();
@@ -46,7 +45,7 @@ class TColors {
   // Error and Validation Colors
   static const Color error = Color(0xFFD32F2F);
   static const Color success = Color(0xFF388E3C);
-  static const Color warning = Color(0xFFFF570C00);
+  static const Color warning = Color.fromARGB(255, 87, 12, 0);
   static const Color info = Color(0xFF1976D2);
 
   // Neutral Shades
